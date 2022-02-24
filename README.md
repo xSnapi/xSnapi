@@ -7,8 +7,9 @@
 <br/>
 [![Youtube Snapi](https://img.shields.io/youtube/channel/subscribers/UC_pgn2Qh4PK-um9TPan3-iw?style=social)](https://www.youtube.com/channel/UC_pgn2Qh4PK-um9TPan3-iw)
 
-#### As for now I'm 17 years old aspiring developer.
-#### I mainly use __C++__, but I can code in other languages too.
+As for now I'm 17 years old aspiring developer.
+<br/>
+I mainly use __C++__, but I can code in other languages too.
 
 ```cpp
 int main() {
