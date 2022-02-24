@@ -1,6 +1,7 @@
 # Hi, there I’m Matthew! 
 
 ![I have stolen this gif](https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif)
+###### (this beauty gif is not mine)
 
 # About me
 [![GitHub Snapi](https://img.shields.io/github/followers/xSnapi?label=follow&style=social)](https://github.com/xSnapi)
