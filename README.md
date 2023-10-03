@@ -14,7 +14,10 @@ I mainly use __C++__, but I can code in other languages too.
 
 ```cpp
 int main() {
-    std::cout << "Hello World!\n"; // fuck std::endl =)
+    unsigned long long int dx = 0x77E435B08;
+    while (dx) putchar(0x726F6C6564574820 >> (((dx >>= 3) & 7) << 3) & 0xFF);
+    putchar('\n');
+
     return 0;
 }
 ```
